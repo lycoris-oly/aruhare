@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.box{
+	margin: 10px 0;
+	float: left;
+	width: 100%;
+	padding-bottom: 30px;
+	background-color:rgba(249,212,173,0.7);
+	line-height: 2.0;
+}
+
+.box h2{
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+
+.box p{
+	text-align: center;
+}

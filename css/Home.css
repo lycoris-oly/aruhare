@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.overviwe{
+	padding-bottom: 30px;
+	font-size: 20px;
+	margin: 0 auto 10px;
+	line-height: 3.0;
+}
+
+.box{
+	border-top: dashed 1px;
+	margin: 0 30px;
+	padding-bottom: 55px;
+	padding-top: 20px;
+	line-height: 2.0;
+}
+
+.box h2{
+	padding: 10px 0;
+}
+

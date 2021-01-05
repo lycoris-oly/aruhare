@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.box{
+	margin: 10px 0;
+	float: left;
+	width: 100%;
+	background-color: #FFDBC9;
+	height: auto;
+}
+
+.box img{
+	max-width: 30%;
+	float: left;
+	margin: 20px;
+}
+
+.box p{
+	margin: 0;
+	padding: 20px;
+	width: 60%;
+	text-align: left;
+}
